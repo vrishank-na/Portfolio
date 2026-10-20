@@ -53,7 +53,7 @@ function App() {
   return (
     <>
       <nav className="navbar">
-        <a href="#about" className="nav-logo">VN.</a>
+        <a href="#about" className="nav-logo">V.</a>
 
         <div className="nav-links">
           <a href="#about">About</a>
