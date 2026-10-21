@@ -313,7 +313,13 @@ function App() {
           </p>
 
           <div className="contact-links">
-            <a href="mailto:vrishankamembal@gmail.com">Email</a>
+            <a
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=vrishankamembal%40gmail.com"
+  target="_blank"
+  rel="noreferrer"
+>
+  Email
+</a>
 
             <a
               href="https://github.com/vrishank-na"
