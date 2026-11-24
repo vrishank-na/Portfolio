@@ -158,14 +158,7 @@ function App() {
                 <span>Unity</span>
               </div>
 
-              <a
-                href="https://github.com/vrishank-na/ECG-Simulation-Pipeline"
-                target="_blank"
-                rel="noreferrer"
-                className="project-link"
-              >
-                GitHub ↗
-              </a>
+              
             </article>
 
             <article className="project-card">
