@@ -162,26 +162,52 @@ function App() {
             </article>
 
             <article className="project-card">
-              <p className="project-number">02 / FORECASTING</p>
+              <p className="project-number">02 / AI SYSTEMS</p>
 
-              <h3>Short-Term Energy Load Forecasting</h3>
+              <h3>StateBridge — Cross-Session State Compiler</h3>
 
               <p>
-                A machine learning solution for forecasting electricity
-                demand, exploring time-series foundation models and LightGBM.
-                Ranked 14th among 3,300+ participants in the IndiaAI Impact
-                Gen-AI Hackathon.
+                 A deterministic state-compilation pipeline that extracts structured
+                project deltas from long LLM sessions to generate strictly
+                token-budgeted handoff prompts.
               </p>
 
               <div className="project-tech">
                 <span>Python</span>
-                <span>LightGBM</span>
-                <span>Time Series</span>
+                <span>State Compilation</span>
               </div>
+
+               <a
+                href="https://github.com/vrishank-na/StateBridge.git"
+                target="_blank"
+                rel="noreferrer"
+                className="project-link"
+                >
+              GitHub ↗
+              </a>
             </article>
 
             <article className="project-card">
-              <p className="project-number">03 / 3D VISUALIZATION</p>
+            <p className="project-number">03 / FORECASTING</p>
+
+            <h3>Short-Term Energy Load Forecasting</h3>
+
+             <p>
+    A machine learning solution for forecasting electricity
+    demand, exploring time-series foundation models and LightGBM.
+    Ranked 14th among 3,300+ participants in the IndiaAI Impact
+    Gen-AI Hackathon.
+              </p>
+
+            <div className="project-tech">
+              <span>Python</span>
+              <span>LightGBM</span>
+              <span>Time Series</span>
+            </div>
+            </article>
+
+            <article className="project-card">
+              <p className="project-number">04 / 3D VISUALIZATION</p>
 
               <h3>3D Campus Sports Complex Visualization</h3>
 
